@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="An Innovate Table Menu">19f399c61b313300da042f86ec4bcbf6</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>An Innovate Tables</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_324722_innovate_an_innovate_table</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_324722_innovate.an_innovate_table_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-04 01:51:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>15f3110a1b313300da042f86ec4bcb51</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Innovates</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Innovate" source="x_324722_innovate">22e111061b313300da042f86ec4bcba7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate">22e111061b313300da042f86ec4bcba7</sys_scope>
+        <sys_update_name>sys_app_module_15f3110a1b313300da042f86ec4bcb51</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-04 02:16:56</sys_updated_on>
+        <timeline_page/>
+        <title>Innovates</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
